@@ -2,21 +2,21 @@
 ## 파일 구조 - 의존성 방향 ↓↓
 
 <pre>
-├── Application <br>
-├── Presentation <br>
-│   ├── MainTabBarController <br>
-│   ├── Monthly <br>
-│   │        ├── MonthlyViewController <br>
-│   │        └── MonthlyViewModel<br>
-│   ├── Weekly <br>
-│   │       ├── WeeklyViewController <br>
-│   │       └── WeeklyViewModel<br>
-│   └── Daily <br>
-│           ├── DaillyViewController <br>
+├── Application <br/>
+├── Presentation 
+│   ├── MainTabBarController 
+│   ├── Monthly 
+│   │        ├── MonthlyViewController 
+│   │        └── MonthlyViewModel
+│   ├── Weekly
+│   │       ├── WeeklyViewController 
+│   │       └── WeeklyViewModel
+│   └── Daily 
+│           ├── DaillyViewController 
 │           └── DailyViewModel<br>
 │   
 ├── Domain <br/>
 │  
-└── Data <br/>
+└── Data 
     └── DataSource 
 <pre>
