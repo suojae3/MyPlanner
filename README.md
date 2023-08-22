@@ -4,7 +4,7 @@
 <pre>
 MyPlanner App <br/>
 │
-├── Application
+├── Application(p.list, assets etc)
 │
 ├── Presentation 
 │   │    
