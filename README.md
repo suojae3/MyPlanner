@@ -18,8 +18,8 @@ MyPlanner
 │           ├── DaillyViewController 
 │           └── DailyViewModel
 │   
-├── Domain 
+├── Data 
+│    └── DataSource
 │  
-└── Data 
-    └── DataSource 
+└── Domain
 <pre>
