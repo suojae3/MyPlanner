@@ -1,5 +1,5 @@
 
-## 파일 구조 - 의존성 방향 ↓↓
+## 파일 구조 
 
 <pre>
 MyPlanner
@@ -18,8 +18,8 @@ MyPlanner
 │           ├── DaillyViewController 
 │           └── DailyViewModel
 │   
-├── Data 
-│    └── DataSource
+├── Domain
 │  
-└── Domain
+└── Data 
+     └── DataSource
 <pre>
