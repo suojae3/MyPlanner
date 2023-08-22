@@ -3,7 +3,7 @@
 
 <pre>
 ├── Application <br>
-├── Presentatino<br>
+├── Presentation <br>
 │   ├── MainTabBarController <br>
 │   ├── Monthly <br>
 │   │        ├── MonthlyViewController <br>
