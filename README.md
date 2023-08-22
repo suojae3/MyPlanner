@@ -1,10 +1,7 @@
 
-## 파일 구조
-
-## 전체적인 모듈 구조
+## 파일 구조 - 의존성 방향 ↓↓
 
 <pre>
-파일의 의존성 방향 ↓↓
 ├── Application <br>
 ├── Presentatino<br>
 │   ├── MainTabBarController <br>
