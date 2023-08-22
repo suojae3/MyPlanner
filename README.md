@@ -14,7 +14,7 @@
 │   │       └── WeeklyViewModel
 │   └── Daily 
 │           ├── DaillyViewController 
-│           └── DailyViewModel<br>
+│           └── DailyViewModel
 │   
 ├── Domain 
 │  
