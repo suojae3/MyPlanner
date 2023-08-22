@@ -2,7 +2,7 @@
 ## 파일 구조 
 
 <pre>
-MyPlanner
+MyPlanner App <br/>
 │
 ├── Application
 │
