@@ -2,6 +2,7 @@
 ## 파일 구조 - 의존성 방향 ↓↓
 
 <pre>
+MyPlanner    
 ├── Application
 │
 ├── Presentation 
